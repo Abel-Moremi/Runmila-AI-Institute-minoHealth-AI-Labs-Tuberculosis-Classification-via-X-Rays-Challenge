@@ -10,4 +10,4 @@ The data have been split into a test and training set. The training set, on whic
 
 
 > **DISCLAMER**
-> Due to the competions [rules](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge) I cannot upload the data to any public sites. Besides the files are huge anyways.
+> Due to the competions [rules](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge) I cannot upload the data to any public sites. Besides the files are huge anyways. But you can get the data [here](https://zindi.africa/competitions/runmila-ai-institute-minohealth-ai-labs-tuberculosis-classification-via-x-rays-challenge/data)
