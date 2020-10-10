@@ -31,4 +31,6 @@ The evaluation metric for this [competition](https://zindi.africa/competitions/r
 | QTFSSMGD |  0.31 |   
 | TBLBHSYT  | 0.90 |   
 
+### RESOURCES 
 
+- [Tensorflow Starter Notebook](https://github.com/leotafadzwa/Runmila-AI-Institute-Tuberculosis-Classification-baseline/blob/master/Runmila%20AI%20Chellenge%20Baseline%20.ipynb) by [leotafadzwa](https://github.com/leotafadzwa)
