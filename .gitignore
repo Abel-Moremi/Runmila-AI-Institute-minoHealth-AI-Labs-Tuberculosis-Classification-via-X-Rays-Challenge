@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore all .csv 
+*.csv
+
+# Ignore Image folder
+*.png
